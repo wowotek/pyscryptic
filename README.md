@@ -1,5 +1,7 @@
 <h1 align=center>Pyscryptic</h1>
 
+A Tool to Obfuscate python source code
+
 ## Why, and, A Bit of history
 
 I Once have a friend who is lazy AF either lazy to learn programming and/or lazy to read. long story short, circumstances forced him to do his thing which need source code written by me, and no other way (the project is somewhat connected and relevant with mine).
